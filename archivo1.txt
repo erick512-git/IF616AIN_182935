@@ -1,2 +1,3 @@
 Rama main con texto1
 Agregando en la rama1 esta edición 1
+Desde la rama 2 estoy editando esto -----
