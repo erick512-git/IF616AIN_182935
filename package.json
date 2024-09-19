@@ -1,0 +1,8 @@
+"scripts": {
+  "release": "semantic-release"
+}
+{
+  "devDependencies": {
+    "semantic-release": "^24.1.1"
+  }
+}
